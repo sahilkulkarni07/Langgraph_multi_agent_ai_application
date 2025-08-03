@@ -28,7 +28,8 @@ A full-stack Retrieval-Augmented Generation (RAG) Chatbot using LangGraph, Astra
 ## Huggingface Run
 
 
-Link : [![Hugging Face Spaces](https://img.shields.io/badge/Spaces-Live-blue?logo=huggingface)](https://sahilkulkarni.hf.space)
+Link : [![Hugging Face Spaces](https://img.shields.io/badge/Spaces-Live-blue?logo=huggingface)](https://huggingface.co/spaces/sahilkulkarni/Multi_agent_application
+)
 
 
 ![Architecture Diagram](static/architecture2.png)
