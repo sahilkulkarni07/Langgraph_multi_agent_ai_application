@@ -10,7 +10,7 @@ A full-stack Retrieval-Augmented Generation (RAG) Chatbot using LangGraph, Astra
 ```
 
 ![Architecture Diagram](static/architecture1.png)
-
+```
 ---
 
 ## Folder Structure
